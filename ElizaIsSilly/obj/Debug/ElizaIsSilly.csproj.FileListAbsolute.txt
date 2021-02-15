@@ -1,0 +1,6 @@
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\ElizaIsSilly\bin\Debug\ElizaIsSilly.exe.config
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\ElizaIsSilly\bin\Debug\ElizaIsSilly.exe
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\ElizaIsSilly\bin\Debug\ElizaIsSilly.pdb
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\ElizaIsSilly\obj\Debug\ElizaIsSilly.csproj.CoreCompileInputs.cache
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\ElizaIsSilly\obj\Debug\ElizaIsSilly.exe
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\ElizaIsSilly\obj\Debug\ElizaIsSilly.pdb

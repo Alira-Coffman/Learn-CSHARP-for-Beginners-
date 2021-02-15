@@ -1,0 +1,7 @@
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\Variables\bin\Debug\Variables.exe.config
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\Variables\bin\Debug\Variables.exe
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\Variables\bin\Debug\Variables.pdb
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\Variables\obj\Debug\Variables.csproj.CoreCompileInputs.cache
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\Variables\obj\Debug\Variables.exe
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\Variables\obj\Debug\Variables.pdb
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\Variables\obj\Debug\Variables.csprojAssemblyReference.cache

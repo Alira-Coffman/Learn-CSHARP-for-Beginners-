@@ -1,0 +1,7 @@
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\RockPaperScissors\bin\Debug\RockPaperScissors.exe.config
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\RockPaperScissors\bin\Debug\RockPaperScissors.exe
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\RockPaperScissors\bin\Debug\RockPaperScissors.pdb
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\RockPaperScissors\obj\Debug\RockPaperScissors.csprojAssemblyReference.cache
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\RockPaperScissors\obj\Debug\RockPaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\RockPaperScissors\obj\Debug\RockPaperScissors.exe
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\RockPaperScissors\obj\Debug\RockPaperScissors.pdb

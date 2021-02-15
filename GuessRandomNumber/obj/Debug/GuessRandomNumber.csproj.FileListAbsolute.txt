@@ -1,0 +1,7 @@
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\GuessRandomNumber\obj\Debug\GuessRandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\GuessRandomNumber\bin\Debug\GuessRandomNumber.exe.config
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\GuessRandomNumber\bin\Debug\GuessRandomNumber.exe
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\GuessRandomNumber\bin\Debug\GuessRandomNumber.pdb
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\GuessRandomNumber\obj\Debug\GuessRandomNumber.exe
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\GuessRandomNumber\obj\Debug\GuessRandomNumber.pdb
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\GuessRandomNumber\obj\Debug\GuessRandomNumber.csprojAssemblyReference.cache

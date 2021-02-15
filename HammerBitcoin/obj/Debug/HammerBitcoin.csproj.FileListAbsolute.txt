@@ -1,0 +1,7 @@
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\HammerBitcoin\bin\Debug\HammerBitcoin.exe.config
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\HammerBitcoin\bin\Debug\HammerBitcoin.exe
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\HammerBitcoin\bin\Debug\HammerBitcoin.pdb
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\HammerBitcoin\obj\Debug\HammerBitcoin.csprojAssemblyReference.cache
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\HammerBitcoin\obj\Debug\HammerBitcoin.csproj.CoreCompileInputs.cache
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\HammerBitcoin\obj\Debug\HammerBitcoin.exe
+C:\Users\alira.coffman\OneDrive - LeadVenture\Desktop\c#Courses\HammerBitcoin\obj\Debug\HammerBitcoin.pdb
